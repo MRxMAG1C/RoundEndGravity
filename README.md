@@ -7,7 +7,7 @@ A [CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp) plugin 
 - Configurable gravity values via `config.json`
 
 ## Configuration
-A `config.json` file is automatically created in the plugin directory on first load.
+A `config.json` file is automatically created in `configs/plugins/RoundEndGravity/` on first load.
 
 | Field | Description |
 |---|---|
